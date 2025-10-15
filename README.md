@@ -16,6 +16,7 @@ public class JavaCaseProblem_ReynoldSCandawan {
         System.out.println("ID Number: " + schoolID);
         System.out.println("------------------------------");
         System.out.printf("Result: %.1f°C is equivalent to %.1f°F%n", celsius, fahrenheit);
+        
     }
 }
     
