@@ -1,7 +1,3 @@
-# JavaCaseProblem_CandawanReynold-S
-
-
-
 public class JavaCaseProblem_ReynoldSCandawan {
     public static void main(String[] args) {
         String fullName = "Reynold S. Candawan";
